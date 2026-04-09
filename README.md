@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there 👋 I'm Arijit Nandi<br><br>🚀 About Me<br><br>- 🎓 B.Tech in Computer Science Engineering<br>- 📊 Pursuing B.Sc in AI & Data Science<br>- 🔭 I’m currently working on: Machine Learning & Data Analysis projects<br>- 🤝 I’m looking to collaborate on: AI, Data Science, and Open Source projects<br>- 🛠️ I’m looking for help with: Advanced ML models & real-world deployment<br>- 🌱 I’m currently learning: Deep Learning, Python Libraries (NumPy, Pandas, Scikit-learn)<br>- 💬 Ask me about: Python, Machine Learning basics, Data Visualization<br>- ⚡ Fun fact: I enjoy solving real-world problems using data and algorithms<br><br>🧰 Tech Stack<br><br>- 💻 Languages: Python, C, C++<br>- 📊 Data Science: NumPy, Pandas, Matplotlib, Scikit-learn<br>- 🌐 Web: HTML, CSS (Basics)<br>- ⚙️ Tools: Git, GitHub, VS Code<br><br>📂 Projects<br><br>- 📌 Road Safety Analysis Project (ESD)<br>- 📌 Machine Learning Models (KNN, Classification Tasks)<br>- 📌 Data Visualization using Plotly<br><br>📫 Connect with Me<br><br>- GitHub: https://github.com/[your-username]<br>- LinkedIn: [Add your profile link]<br><br>📊 GitHub Stats<br><br>(You can add GitHub stats badges here later for a more attractive profile)<br><br>---
 
-<!--
-**OfficialArijitNandi/OfficialArijitNandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/official_arijit_nandi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arijit Nandi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arijitnandi17022005@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OfficialArijitNandi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OfficialArijitNandi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialArijitNandi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=OfficialArijitNandi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
